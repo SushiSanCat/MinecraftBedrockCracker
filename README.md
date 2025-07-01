@@ -61,3 +61,31 @@ After clicking "Start Cracking," the tool takes ownership of the `System32` and 
 As of July 1, 2025, I uploaded `MCPECracker.exe` to VirusTotal. Here are the results:<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e402cfe1-9fa8-4535-9e7a-1872d68fb76d" alt="VirusTotal Screenshot" width="500"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Should I back up my original files?</strong></summary>
+<br>
+Yes! Always back up your original `Windows.ApplicationModel.Store.dll` files from both `System32` and `SysWOW64` before replacing them. This allows you to restore your system if something goes wrong.
+</details>
+
+---
+
+# ⬇️ Alternative Method: DLL & Registry File Approach
+
+## How to Use
+
+1. ⬇️ **Download** the files from this repository.
+2. 🗝️ **Run** the `InstallTakeOwnership.reg` file to gain necessary permissions.
+3. 📂 **Copy** the provided DLL files:
+   - Place the `System32` DLL into `C:\Windows\System32`
+   - Place the `SysWOW64` DLL into `C:\Windows\SysWOW64`
+4. 🎮 **Launch Minecraft Bedrock Edition** and enjoy!
+
+> **🔒 Security Note:**
+> After you have finished doing the alternative method, it is strongly recommended to run the `Undo_Take_Ownership.reg` file. This will revert the ownership of `System32` and `SysWOW64` back to the system. Leaving these folders under your user ownership can make your system vulnerable to attacks, viruses, and other malicious activity.
+
+---
+
+###### *Last updated: July 1, 2025*
