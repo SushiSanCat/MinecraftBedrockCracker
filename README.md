@@ -13,6 +13,14 @@
 > He also acknowledged that many players start with a cracked version but later become paying customers:
 > "A lot of pirates get converted... try-it-before-I-buy-it."
 
+> ### Important Notice About Minecraft Bedrock Cracker 1.21.120+
+>
+> Minecraft Bedrock Edition switched from UWP (Universal Windows Platform) to GDK (Game Development Kit) in the 1.21.120 update. Source: https://www.minecraft.net/fi-fi/article/minecraft--bedrock-edition-1-21-120
+>
+> So, around the October–November 2025 timeframe (when 1.21.120 rolled out) is when the switch happened.
+>
+> This means that MinecraftBedrockCracker will no longer work nor be updated to fix this problem.
+
 ---
 
 ## ✨ Features
@@ -88,4 +96,4 @@ Yes! Always back up your original `Windows.ApplicationModel.Store.dll` files fro
 
 ---
 
-###### *Last updated: July 1, 2025*
+###### *Last updated: November 19, 2025*
