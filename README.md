@@ -1,3 +1,17 @@
+<div align="center">
+
+# 🚨 CRITICAL NOTICE: TOOL NO LONGER WORKS 🚨
+
+## ❌ Minecraft Bedrock Cracker Is Obsolete Due to 1.21.120+ Updates
+
+⚠️ **IMPORTANT**: As of October–November 2025, Minecraft Bedrock Edition has switched from UWP (Universal Windows Platform) to GDK (Game Development Kit) in the 1.21.120 update. **This tool will no longer work and will not be updated to fix this issue.**
+
+🔗 Source: https://www.minecraft.net/fi-fi/article/minecraft--bedrock-edition-1-21-120
+
+</div>
+
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ff3d397c-f4f6-4c21-92e5-badd2f6d14e0" alt="Logo" width="300"/>
 </p>
@@ -12,14 +26,6 @@
 >
 > He also acknowledged that many players start with a cracked version but later become paying customers:
 > "A lot of pirates get converted... try-it-before-I-buy-it."
-
-> ### Important Notice About Minecraft Bedrock Cracker 1.21.120+
->
-> Minecraft Bedrock Edition switched from UWP (Universal Windows Platform) to GDK (Game Development Kit) in the 1.21.120 update. Source: https://www.minecraft.net/fi-fi/article/minecraft--bedrock-edition-1-21-120
->
-> So, around the October–November 2025 timeframe (when 1.21.120 rolled out) is when the switch happened.
->
-> This means that MinecraftBedrockCracker will no longer work nor be updated to fix this problem.
 
 ---
 
